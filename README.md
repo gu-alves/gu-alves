@@ -1,7 +1,15 @@
 ## Hello world! Welcome to my github profile, would you like a cup of coffee? ☕
 
-- 🐛 I'm currently working with bug fixes using Java and Flutter.
+</br>
+- 🐛 I'm currently working with bug fixes using Java and Flutter. 
+</br>
 - 💻 I’m learning about Flutter, Java and Databases.
+</br>
+- 📫 You can contact me by sending an email to: he.gustavoalves@gmail.com
+</br>
+- 😊 May the force be with you!
+
+##
 
 <div>
   <a href="https://github.com/gu-alves">
