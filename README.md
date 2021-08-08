@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello world! Welcome to my github profile, would you like a cup of coffee? 
 
 <!--
 **gu-alves/gu-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
