@@ -2,7 +2,7 @@
 
 - 🐛 I'm currently working with bug fixes using Java and Flutter. 
 - 💻 I’m learning about Flutter, Java and Databases.
-- 😊 May the force be with you!
+- 😊 If you want to customize your Github like mine, please send me a message and I'll be glad to help!
 
 ##
 
