@@ -15,7 +15,7 @@
 ## Contact me:
   
 <div>
-  &emsp; &emsp; &emsp;
+  &emsp; &emsp;
   <a href="https://api.whatsapp.com/send?phone=5541987669897" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/GustavoHenriqueAlves" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/cYvPFRbc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
