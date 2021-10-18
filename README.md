@@ -1,7 +1,7 @@
 ## Hello world! Welcome to my github profile, would you like a cup of coffee? ☕
 
 - 🐛 I'm currently working with bug fixes using Java and Flutter. 
-- 💻 I’m learning about Flutter and Java.
+- 💻 I’m learning about Flutter.
 - 😊 If you want to customize your Github like mine, please send me a message and I'll be glad to help!
 
 ##
