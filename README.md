@@ -1,6 +1,6 @@
 ## Hello world! Welcome to my github profile, would you like a cup of coffee? ☕
 
-- 💪 I'm currently working with Java/Kotlin. 
+- 💪 I'm currently working with Java Android/Kotlin. 
 - 📚 I’m learning about Node.js.
 - 😊 If you want to customize your Github like mine, please send me a message and I'll be glad to help!
 
