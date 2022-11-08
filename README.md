@@ -9,7 +9,6 @@
 <div>
   <a href="https://github.com/gu-alves">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=gu-alves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-alves&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
 ## Contact me:
